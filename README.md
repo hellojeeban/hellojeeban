@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/34jeebanjyoti" target="blank"><img src="https://img.shields.io/twitter/follow/34jeebanjyoti?logo=twitter&style=for-the-badge" alt="34jeebanjyoti" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Angular js**
 
 - 👨‍💻 All of my projects are available at [https://hellojeeban.github.io/PersonalPortfolioWebsite/](https://hellojeeban.github.io/PersonalPortfolioWebsite/)
 
